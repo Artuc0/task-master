@@ -23,5 +23,4 @@ if (isset($_GET['action'], $_GET['id'])) {
 
 $tasks = $taskModel->getAll();
 
-// Agora chamamos a View (a parte visual)
 include 'tasks-view.php';

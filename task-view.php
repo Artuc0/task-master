@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Task Master (Clean Edition)</h1>
+        <h1>Task Master</h1>
 
         <?php if ($error): ?>
             <div class="error"><?= $error ?></div>
