@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/task-master && php -f index\\.php$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
